@@ -1,5 +1,0 @@
-Tools - это инструменты для работы.
-Например калькулятор может подсчитать дату рождения человека и сколько ему лет.
--- english
-Tools are tools for work.
-For example, a calculator can calculate a person's date of birth and how old he is.s
